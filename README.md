@@ -1,7 +1,7 @@
 <!-- README.md for GitHub Profile -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=6000&color=15BDF7&center=true&width=435&lines=a+Hi+%F0%9F%91%8B%2C+I'm+Kalpesh+Vala!+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=6000&color=15BDF7&center=true&width=435&lines=a+!+Hi%F0%9F%91%8B%2C+I'm+Kalpesh+Vala+!+!+" alt="Typing SVG" />
   </a>
 </p>
 <h3 align="center">🚀 Passionate Java Developer | Full-Stack Enthusiast | Tech Explorer</h3>
