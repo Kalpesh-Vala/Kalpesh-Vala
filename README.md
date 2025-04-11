@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">🚀 Passionate Java Developer | Full-Stack Enthusiast | Tech Explorer</h3>
 <br>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif">
+<img align="right" alt="Coding" width="350" src="image.jpg">
 
 - 🔭 I’m currently working on **Java-based Full Stack Projects ,DevOPS and Backend Development**
 - 🌱 I’m currently learning **Spring Boot, Kubernetes, Go, Microservices**
