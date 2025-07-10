@@ -73,7 +73,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=drashti-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kalpesh-Vala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 ### 📬 Let's Connect
